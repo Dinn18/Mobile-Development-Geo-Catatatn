@@ -26,7 +26,7 @@ Berikut merupakan tampilan aplikasi Geo Catatan yang telah dibuat:
 
 ### 1. Halaman Peta & Lokasi Address
 Menampilkan posisi pengguna secara realtime dan lokasi yang bisa diberi catatan.
-![Tampilan Peta](images/peta.jpg)
+![Tampilan Peta](images/Peta.jpg)
 
 ### 2. Tampilan Type
 Memilih jenis lokasi seperti rumah, toko, atau kantor.
