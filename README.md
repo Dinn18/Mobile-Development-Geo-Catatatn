@@ -20,4 +20,22 @@ Dosen : Sepyan Purnama Kristanto, S.Kom., M.Kom.
 - Hapus Catatan & Marker
 - Data Tersimpan Permanen Menggunakan SharedPreferences di dalam cache 
 
+
 ## Tampilan Aplikasi
+Berikut merupakan tampilan aplikasi Geo Catatan yang telah dibuat:
+
+### 1. Halaman Peta & Lokasi Address
+Menampilkan posisi pengguna secara realtime dan lokasi yang bisa diberi catatan.
+![Tampilan Peta](images/peta.jpg)
+
+### 2. Tampilan Type
+Memilih jenis lokasi seperti rumah, toko, atau kantor.
+![Pilih Tipe](images/Type.jpg)
+
+### 3. Tampilan Icon Pada Peta
+Icon berubah mengikuti tipe lokasi.
+![Icon Pada Peta](images/Icon.jpg)
+
+### 4. Tampilan Catatan & Hapus Catatan
+Daftar catatan yang tersimpan dan tersedia opsi hapus.
+![Catatan & Hapus](images/Catatan.jpg)
