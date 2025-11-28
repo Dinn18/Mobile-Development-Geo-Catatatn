@@ -1,5 +1,4 @@
 import 'package:latlong2/latlong.dart';
-import 'database_helper.dart';
 
 class CatatanModel {
   int? id;
