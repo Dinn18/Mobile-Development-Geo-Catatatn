@@ -7,10 +7,10 @@ dengan menambah model bagi tiap" type catatan sepeti rumah dengan gambar rumah, 
 dengan gambar toko serta menambahkan icon untuk menghapus pada catatanya.
 
 ## Identitas
-Nama  : Ahmad Maulidin
-NIM   : 362458302146
-Mata Kuliah : Pemrograman Perangkat Bergerak
-Dosen : Sepyan Purnama Kristanto, S.Kom., M.Kom.
+- Nama  : Ahmad Maulidin
+- NIM   : 362458302146
+- Mata Kuliah : Pemrograman Perangkat Bergerak
+- Dosen : Sepyan Purnama Kristanto, S.Kom., M.Kom.
 
 ## Fitur Aplikasi
 - Tampilan Peta
