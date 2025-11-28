@@ -1,4 +1,4 @@
-# Praktikum 
+# Laporan Praktikum 
 ## Aplikasi Geo-Catatan Lokasi
 ## Penaduhuluan
 Laporan ini saya buat setelah melakukan percobaan membuat Aplikasi Geo catatan untuk 
